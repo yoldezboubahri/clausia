@@ -1,0 +1,13 @@
+﻿.env
+*.key
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+chroma_db/
+faiss_index/
+data/raw/
+
+venv/
+**/venv/
+.venv/
+.env
