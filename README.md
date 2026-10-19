@@ -25,7 +25,7 @@ Assistant de recherche réglementaire qui répond en langage naturel (en anglais
 
 ## Application preview
 
-![Interface Clausia]("C:\Users\yolde\Downloads\clausia_interface.png")
+![Interface Clausia](docs/clausia_interface.png)
 
 *Interface Streamlit de Clausia : réponse structurée avec citations, cadre et version détectés, sources EUR-Lex et alertes du vérificateur de citations.*
 
