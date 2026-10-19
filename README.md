@@ -9,17 +9,18 @@ Assistant de recherche réglementaire qui répond en langage naturel (en anglais
 
 ## Sommaire
 
-1. [Pourquoi ce projet](#pourquoi-ce-projet)
-2. [Architecture](#architecture)
-3. [Corpus](#corpus)
-4. [Choix techniques](#choix-techniques)
-5. [Structure du dépôt](#structure-du-dépôt)
-6. [Installation et utilisation](#installation-et-utilisation)
-7. [Évaluation et résultats](#évaluation-et-résultats)
-8. [Fiabilité et sécurité](#fiabilité-et-sécurité)
-9. [Limites connues](#limites-connues)
-10. [Perspectives](#perspectives)
-11. [Licences et sources](#licences-et-sources)
+1. [Application preview](#application-preview)
+2. [Pourquoi ce projet](#pourquoi-ce-projet)
+3. [Architecture](#architecture)
+4. [Corpus](#corpus)
+5. [Choix techniques](#choix-techniques)
+6. [Structure du dépôt](#structure-du-dépôt)
+7. [Installation et utilisation](#installation-et-utilisation)
+8. [Évaluation et résultats](#évaluation-et-résultats)
+9. [Fiabilité et sécurité](#fiabilité-et-sécurité)
+10. [Limites connues](#limites-connues)
+11. [Perspectives](#perspectives)
+12. [Licences et sources](#licences-et-sources)
 
 ---
 
