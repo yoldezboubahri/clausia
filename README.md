@@ -6,11 +6,6 @@ Assistant de recherche réglementaire qui répond en langage naturel (en anglais
 
 **Auteures :** Yoldez Boubahri, Chayma Bdiri
 
-<!-- Capture de l'interface : ajoute docs/clausia_interface.png puis décommente la ligne suivante
-![Interface Clausia](docs/clausia_interface.png)
--->
-
----
 
 ## Sommaire
 
@@ -25,6 +20,14 @@ Assistant de recherche réglementaire qui répond en langage naturel (en anglais
 9. [Limites connues](#limites-connues)
 10. [Perspectives](#perspectives)
 11. [Licences et sources](#licences-et-sources)
+
+---
+
+## Application preview
+
+![Interface Clausia]("C:\Users\yolde\Downloads\clausia_interface.png")
+
+*Interface Streamlit de Clausia : réponse structurée avec citations, cadre et version détectés, sources EUR-Lex et alertes du vérificateur de citations.*
 
 ---
 
